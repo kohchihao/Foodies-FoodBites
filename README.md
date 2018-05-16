@@ -1,5 +1,5 @@
 # FoodBites
-Group Name : Foodies🍩
+Group Name : Foodies🍩  
 Group Member : KOH CHI HAO , TAN JIN YING
 
 FoodBites are here to reduce food wastage in Singapore. In 2016, Singapore had generated a total of 791,000 tonnes of food waste. Out of that, only 14% of it gets recycled. This means that 86% of the remaining gets burnt/dumped into landfills. 
