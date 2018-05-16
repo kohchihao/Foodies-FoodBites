@@ -34,3 +34,10 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 1. README - This documentation is the readme
 2. Project Log: Access it [here]
 3. Video: Access it [here]
+
+
+# User Stories 
+
+For user stories, we have decided to follow the Agile framework. Please click the link to view the entire user stories.
+
+[LINK](https://docs.google.com/spreadsheets/d/1n6myg_zPBbZoBca4gTNpsFASr4yi8E_W2z3kDfVZANo/edit?usp=sharing)
