@@ -24,6 +24,9 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 3) Google Login for consumers 
 4) Ability to follow different shop outlets
 
+## System Flow 
+![Image of system](system.png)
+
 # Project Timeline 
 ![Image of banner](foodbites.jpg)
 
@@ -32,8 +35,20 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 **Deliverables**:
 
 1. README - This documentation is the readme
-2. Project Log: Access it [here]
+2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
 3. Video: Access it [here]
+
+At the end of Milestone 1, we aim to be ready with the skillset and the needs of our users for out application. As there is a tight timeline to follow, the tools to build our application would be essential. As such, we have chosen to go with React Native for building out application as it allows one code base to be used in both the Android and the iOS environment. Additionally, we have chosen Firebase to be our backend database.
+
+We started by experimenting with pure React Native development. However, we soon realised that using just React Native had some limitations because one of us do not own a MacBook for the iOS development portion. That is when we plan to look into Expo, where you can test and develop iOS and Android apps in React Native without having the need of a Macbook. If all works out well, we will switch over entirely to using Expo for our development and testing process. As for our database, Firebase proves to be a good choice to experiment with as the documentations provided by Google was clear and precise as well as easy to follow. 
+
+For the features to be implemented, we have given priorities to each feature so that more important features would be implemented first to give us our minimum viable product. By the end of Milestone 2, we aim to finish up with those features with the priority ranking of 1 and during Milestone 3, we look to implement the other features. 
+
+We have planned out our user stories using the Agile framework. (See User Stories section below)
+
+For the development plan, both of us will be coming with the design for our application for both the business and users application and setting up of the administrative matters. After that, Chi Hao will be in charge of building the development of the users application and Jin Ying will be in charge of building of the business application.
+
+
 
 
 # User Stories 
