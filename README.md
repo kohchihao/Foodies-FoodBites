@@ -4,7 +4,7 @@ Group Member : KOH CHI HAO , TAN JIN YING
 
 FoodBites are here to reduce food wastage in Singapore. In 2016, Singapore had generated a total of 791,000 tonnes of food waste. Out of that, only 14% of it gets recycled. This means that 86% of the remaining gets burnt/dumped into landfills. 
 
-## How are we going to do it?
+## Our approach to solving the problem
 FoodBites aim to reduce food wastage by connecting food stall owners like bakeries, restaurants or even old chang kee to consumers through an mobile application. Through the applications, shop owners are able to post and notify the consumers that are subscribed to their stall that there are going to close for the evening and there are still food available at a discounted price. 
 
 This is a win-win situation for both the consumers and the shop owners. For the shop owners, they are able to generate more profits by selling away all their food items. For consumers, they are able to purchase their favourite food items at a discounted rate! 
@@ -16,7 +16,8 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 **Shop Owner App**
 1) Basic CRUD - shop owners to post food 
 2) Automatic Post expiration - shop owners post will eventually get automatically removed after certain hours.
-3) Email Login 
+3) Email Login for shop owner
+4) Automatic push notification to customers
 
 **Consumer App**
 1) Push notifications - consumers notification when the food is on discount
@@ -35,8 +36,8 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 **Deliverables**:
 
 1. README - This documentation is the readme
-2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
-3. Video: Access it [here]
+2. Project Log: [Access it here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
+3. Video: [Access it here](https://youtu.be/v-gE6hu1ls4)
 
 At the end of Milestone 1, we aim to be ready with the skillset and the needs of our users for out application. As there is a tight timeline to follow, the tools to build our application would be essential. As such, we have chosen to go with React Native for building out application as it allows one code base to be used in both the Android and the iOS environment. Additionally, we have chosen Firebase to be our backend database.
 
