@@ -41,20 +41,10 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 
 ## Design of the apps 
 ### User App
-<img src="./user/browse-page.png" alt="browse page"  height="300">
-
-<img src="./user/nearby-page.png" alt="nearby page"  height="300">
-
-<img src="./user/food-details-page.png" alt="food details" height="300">
-
-<img src="./user/category-page.png" alt="category page"  height="300">
-
-<img src="./user/profile-page-shop.png" alt="profile page"  height="300">
+<img src="./user/browse-page.png" alt="browse page"  height="300"> <img src="./user/nearby-page.png" alt="nearby page"  height="300"> <img src="./user/food-details-page.png" alt="food details" height="300"> <img src="./user/category-page.png" alt="category page"  height="300"> <img src="./user/profile-page-shop.png" alt="profile page"  height="300">
 
 ### Business App
-<img src="./business/home-page.png" alt="home page"  height="300">
-
-<img src="./business/post-page.jpg" alt="post page" height="300">
+<img src="./business/home-page.png" alt="home page" height="300"> <img src="./business/post-page.jpg" alt="post page" height="300">
 
 # Project Timeline 
 ![Image of banner](foodbites.jpg)
