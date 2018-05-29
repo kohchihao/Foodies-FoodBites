@@ -13,7 +13,7 @@ This is a win-win situation for both the consumers and the shop owners. For the 
 We have seen mobiles apps from other countries like [OLIO](https://olioex.com/), [Food for all](https://foodforall.com/), [treatsure](https://www.treatsure.co/), and [Food rescue US](https://foodrescue.us/).
 
 ## What features are there? 
-**Shop Owner App**
+**Business App**
 1) Basic CRUD - shop owners to post food 
 2) Automatic Post expiration - shop owners post will eventually get automatically removed after certain hours.
 3) Email Login for shop owner
@@ -25,8 +25,36 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 3) Google Login for consumers 
 4) Ability to follow different shop outlets
 
+## Tech Stack 
+- Backend : 
+  - Realtime Database - [Firebase](https://firebase.google.com/docs/database/) 
+  - Serverless - [Firebase Cloud Functions](https://firebase.google.com/docs/functions/)
+  - Push Notification - [Expo Push Notifications](https://docs.expo.io/versions/latest/guides/push-notifications)
+- Frontend 
+  - [Expo](https://expo.io/) (React Native)
+
+
+<img src="firebase.png" alt="alt text" width="whatever" height="200"> ![image of expo](expo.png)
+
 ## System Flow 
 ![Image of system](system.png)
+
+## Design of the apps 
+### User App
+<img src="./user/browse-page.png" alt="browse page"  height="300">
+
+<img src="./user/nearby-page.png" alt="nearby page"  height="300">
+
+<img src="./user/food-details-page.png" alt="food details" height="300">
+
+<img src="./user/category-page.png" alt="category page"  height="300">
+
+<img src="./user/profile-page-shop.png" alt="profile page"  height="300">
+
+### Business App
+<img src="./business/home-page.png" alt="home page"  height="300">
+
+<img src="./business/post-page.jpg" alt="post page" height="300">
 
 # Project Timeline 
 ![Image of banner](foodbites.jpg)
