@@ -49,7 +49,8 @@ We have seen mobiles apps from other countries like [OLIO](https://olioex.com/),
 
 # Project Timeline 
 ![Image of banner](foodbites.jpg)
-![Image of new banner](./misc/banner.jpg)
+<img src="./misc/banner.jpg" alt="banner"  height="640">
+
 
 ### **Milestone 1** 
 
@@ -85,7 +86,7 @@ On FoodBites Business, we have produce a basic CRUD (Create, Read Update & Delet
 
 For milestone 3, we look to implement searching for posts and also a panel for the user to see their past notifications on FoodBites. For FoodBites Business, we aim to implement post scheduling and minor improvement on existing features on both the application. 
 
-## User App
+### User App
 > Browse Screen
 
 <img src="./misc/browse.jpg" alt="browse page"  height="300">   
@@ -111,7 +112,7 @@ Post screen with details of the food item such as food expiry time, when the pos
 User is able to subscribe to the outlet and receive notification when the outlet upload a new post. User is also able to see the review for the outlet(happy, sad, neutral).
 
 
-## Business App
+### Business App
 > Biz Home Screen
 
 <img src="./misc/biz_home.PNG" alt="biz home page"  height="300"> 
@@ -126,7 +127,7 @@ Outlets will be able to see the full detailed information of their post. Outlets
 
 > Post Creation Screen
 
-<img src="./misc/biz_post.PNG" alt="post creation page"  height="300"> >
+<img src="./misc/biz_post.PNG" alt="post creation page"  height="300">
 
 Outlets are able to upload up to 4 images of their food. They are also able to input their details of the food. 
 
