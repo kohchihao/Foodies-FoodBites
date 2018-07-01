@@ -76,7 +76,7 @@ For the development plan, both of us will be coming with the design for our appl
 
 1. README - This documentation is the readme
 2. Project Log: [Access it here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
-3. Video: [Access it here]
+3. Video: [Access it here](https://youtu.be/MeDzM02O7cA)
 
 By Milestone 2, we have came up the Minimum Viable Product for both the FoodBites (User Application) and FoodBites Business (Business Application). 
 
