@@ -131,6 +131,66 @@ Outlets will be able to see the full detailed information of their post. Outlets
 
 Outlets are able to upload up to 4 images of their food. They are also able to input their details of the food. 
 
+### **Milestone 3** 
+
+**Deliverables**:
+
+1. README - This documentation is the readme
+2. Project Log: [Access it here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
+3. Video: [Access it here]
+
+In Milestone 3, we have added more features and also did some improvement to existing features to both FoodBites and FoodBites Business.
+
+On FoodBites, we have implemented a lot more new features, namely the nearby screen, search screen, account screens and notifications screen. In the nearby screen, the app itself will request for permission from the user to take their current location. From there, it will fetch from the database the closest outlets post to them. It will be listed from closest to further. As for the search screen, users will be able to search based on the outlet names for example - Old Chang Kee. When the user type letter by letter, the app will show different suggestions based on what the user typed. As such, the user do not need to type out the entire word. In the account screen, the app will display the user profile and a list of subscribed outlets. The user have the ability to unsubscribe from the outlets that they have subscribed previously. This gives the user the control of how many notifications they want to see from the phone. Lastly, the notifications screen will show the latest notifications sent by different outlets. This is will let the user know that there is a discount ongoing.
+
+
+On FoodBites Business, we have added the ability to allow owners to schedule their post, so that they can create a post beforehand and not having to create a post at the time they need to. User will be able to select the date and time they wanted to post and we also a validation to make sure that the schedule post time will be earlier than the post expiry time.  Next we have also allowed owners to delete the image they have selected in the scenario where they have selected a wrong image for their post on both the post creation and also on the repost page. This feature is especially important when owners want to repost, but would like to use a new image instead of the old one. With the feedback on Milestone 2, we realized that we have missed out on a key feature on the login screen, which is the forgot password feature, which was implemented right after. Lastly, we did up the account screen for owners to view details on the account and logging out on the account screen.
+
+### User App
+> Nearby Screen
+
+<img src="./misc/nearby.jpg" alt="nearby page"  height="300">   
+
+Nearby Screen for users to select based on their location 1km away. 
+
+> Search Screen
+
+<img src="./misc/search.jpg" alt="search page"  height="300">   
+
+Search screen for the user to search based on the outlet's name 
+
+> Notification Screen
+
+<img src="./misc/notification.jpg" alt="Notification page"  height="300">   
+
+Notifications screen for the user to see past notifications in the event they missed it. 
+
+> Account Screen
+
+<img src="./misc/account.jpg" alt="Account page"  height="300">   
+
+For the users to see their personal profile and the outlets that they have subscribed to.
+
+### Business App
+> Account Screen
+
+<img src="./misc/biz_account.PNG" alt="Biz Account page"  height="300">   
+
+For the outlets to see their details and subscriber count.
+
+> Schedule Screen
+
+<img src="./misc/biz_schedule.PNG" alt="Biz Schedule page"  height="300">   
+
+For the outlets to schedule their post or delete their images. 
+
+> Forget Password Screen
+
+<img src="./misc/biz_forgetpassword.PNG" alt="Biz Forget Password page"  height="300">   
+
+If outlets ever forget their password, they can easily reset their password by sending their email.
+
+
 
 # User Stories 
 
