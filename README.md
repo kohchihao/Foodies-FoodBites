@@ -137,7 +137,7 @@ Outlets are able to upload up to 4 images of their food. They are also able to i
 
 1. README - This documentation is the readme
 2. Project Log: [Access it here](https://docs.google.com/spreadsheets/d/1K4nYnpmKNXQdxT5M6RLzehTtedsVHvJemrZlNi6F2-k/edit?usp=sharing)
-3. Video: [Access it here]
+3. Video: [Access it here](https://youtu.be/eFQ93ClBg7M)
 
 In Milestone 3, we have added more features and also did some improvement to existing features to both FoodBites and FoodBites Business.
 
@@ -197,3 +197,9 @@ If outlets ever forget their password, they can easily reset their password by s
 For user stories, we have decided to follow the Agile framework. Please click the link to view the entire user stories.
 
 [LINK](https://docs.google.com/spreadsheets/d/1n6myg_zPBbZoBca4gTNpsFASr4yi8E_W2z3kDfVZANo/edit?usp=sharing)
+
+
+# Proposed Level of Achievement
+
+The level of achievement we are aiming for is Project Gemini. Below list the respective requirements and our justifications:
+
