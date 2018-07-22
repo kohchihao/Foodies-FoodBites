@@ -199,7 +199,3 @@ For user stories, we have decided to follow the Agile framework. Please click th
 [LINK](https://docs.google.com/spreadsheets/d/1n6myg_zPBbZoBca4gTNpsFASr4yi8E_W2z3kDfVZANo/edit?usp=sharing)
 
 
-# Proposed Level of Achievement
-
-The level of achievement we are aiming for is Project Gemini. Below list the respective requirements and our justifications:
-
