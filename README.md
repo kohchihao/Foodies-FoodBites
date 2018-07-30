@@ -5,6 +5,17 @@ Proposed Project Level: **Gemini**
 
 FoodBites are here to reduce food wastage in Singapore. In 2016, Singapore had generated a total of 791,000 tonnes of food waste. Out of that, only 14% of it gets recycled. This means that 86% of the remaining gets burnt/dumped into landfills. 
 
+## Download the app 
+
+Before downloading our app, you are required to download the Expo App [App Store](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)
+
+FoodBites: [https://exp.host/@kohchihao/FoodBites](https://exp.host/@kohchihao/FoodBites)  
+FoodBites Business: [https://exp.host/@tjykenth/FoodBites-Business](https://exp.host/@tjykenth/FoodBites-Business)
+
+Login Credentials for FoodBites Business test account  
+Username: oldchangkee@gmail.com  
+Password: p@ssw0rd
+
 ## Our approach to solving the problem
 FoodBites aim to reduce food wastage by connecting food stall owners like bakeries, restaurants or even old chang kee to consumers through an mobile application. Through the applications, shop owners are able to post and notify the consumers that are subscribed to their stall that there are going to close for the evening and there are still food available at a discounted price. 
 
